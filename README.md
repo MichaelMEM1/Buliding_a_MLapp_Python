@@ -8,6 +8,10 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/MichaelMEM1/Buliding_a_MLapp_Python/HEAD
 
+This project is adapted from the tuotrial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
+
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
